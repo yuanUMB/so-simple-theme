@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: So Simple Theme
-locale: en_US
+title: Yuan's Blog
+locale: US
 description: A simple and clean responsive Jekyll theme for words and photos.
 logo: site-logo.png
-url: https://mmistakes.github.io/so-simple-theme
+url: https://yuanUMB.github.io/so-simple-theme
 
 # Jekyll configuration
 
@@ -36,17 +36,11 @@ comments: true
 
 # Site owner
 owner:
-  name: Michael Rose
+  name: Yuan Gu
   avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
+  email: ygu@som.umaryland.edu
   disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
-  stackexchange:
-  linkedin:
-  instagram: mmistakes
-  flickr:
+  github: yuanUMB
   tumblr: mademistakes
   pinterest:
   weibo:
